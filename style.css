@@ -59,6 +59,6 @@ header.home-hero img.poster {
 
 @media (pointer: coarse) and (hover: none) {
     header {
-        background: url('images/hero-video-poster.png') no-repeat bottom right scroll;
+        background: url('https://raw.githubusercontent.com/solodev/hero-with-video-bg/master/images/hero-video-poster.jpg') no-repeat bottom right scroll;
    }
 }
